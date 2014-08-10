@@ -1,4 +1,4 @@
-# Horimiya Rss Reader
+# Horimiya RSS
 ====
 
 [読解アヘン](http://dka-hero.com/)の"堀さんと宮村くん"のRSS Readerです
@@ -11,7 +11,9 @@
 
 ## Demo
 
-http://horimiya_rss.herokuapp.com
+- [Heroku](http://horimiya_rss.herokuapp.com)
+
+- Yoアカウント、`HORIMIYARSS`を登録するとコミックの更新時にYoが来ます
 
 ## Requirement
 
