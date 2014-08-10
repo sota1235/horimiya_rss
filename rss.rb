@@ -8,7 +8,6 @@ require 'rss'
 # 各話の情報をクローリング
 url = "http://dka-hero.com"
 list_url = "/h_01.html" # マンガ一覧のページ
-num = 1
 comics = []
 
 html = open(url + list_url).read
