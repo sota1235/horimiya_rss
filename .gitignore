@@ -2,5 +2,5 @@
 .DS_Store
 *.swp
 issue.txt
-vender
+vendor
 .bundle
