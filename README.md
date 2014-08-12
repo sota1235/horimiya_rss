@@ -11,7 +11,7 @@
 
 ## Demo
 
-- [Heroku](http://horimiya_rss.herokuapp.com)
+- [Heroku](http://horimiya-rss.herokuapp.com)
 
 - Yoアカウント、`HORIMIYARSS`を登録するとコミックの更新時にYoが来ます
 
