@@ -21,6 +21,7 @@ def make_rss
     comics.push([url + href, title])
   end
   comics.delete_at(140)
+  comics = comics.reverse
 
   # for debug
   # puts comics
