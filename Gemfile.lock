@@ -2,8 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.6.0)
-    haml (4.0.5)
-      tilt
     mini_portile (0.6.0)
     multi_json (1.10.1)
     nokogiri (1.6.3.1)
@@ -30,7 +28,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  haml
   nokogiri
   sinatra
   sinatra-contrib
