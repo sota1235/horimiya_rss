@@ -40,6 +40,10 @@ def make_rss
     end
   end
 
+  # make cache
+  path = './cache/rss.xml' # path from app.rb
+  open(path, 'w').write rss.to_s
+
   return rss.to_s
   # for debug
   # puts rss.to_s
